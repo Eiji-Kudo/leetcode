@@ -70,7 +70,7 @@ leetcode/
 - [x] **1-2** 配列の追加・削除 — `push`, `pop`, `unshift`, `shift` で末尾/先頭を操作 (`array-mutate.js`) ✅ 2026-03-08
 - [x] **1-3** for ループで配列を走査 — `for (let i = 0; i < arr.length; i++)` の基本形 (`array-for-loop.js`) ✅ 2026-03-08
 - [x] **1-4** for...of で配列を走査 — `for (const item of arr)` でシンプルに回す (`array-for-of.js`) ✅ 2026-03-08
-- [ ] **1-5** map — 各要素を変換して新しい配列を返す (`array-map.js`)
+- [x] **1-5** map — 各要素を変換して新しい配列を返す (`array-map.js`) ✅ 2026-03-08
 - [ ] **1-6** filter — 条件に合う要素だけ集める (`array-filter.js`)
 - [ ] **1-7** reduce — 配列を1つの値にまとめる（合計など） (`array-reduce.js`)
 - [ ] **1-8** includes / indexOf — 要素が含まれるか調べる (`array-search.js`)

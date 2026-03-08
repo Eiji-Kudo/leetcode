@@ -23,6 +23,12 @@
       "reviews": [],
       "intervalLevel": 0,
       "nextReview": "2026-03-09"
+    },
+    "1-5": {
+      "completedAt": "2026-03-08",
+      "reviews": [],
+      "intervalLevel": 0,
+      "nextReview": "2026-03-09"
     }
   }
 }
