@@ -67,7 +67,7 @@ leetcode/
 **目標**: テーブルからデータを取得する基本を身につける
 
 - [x] **1-1** SELECT と FROM — テーブルから列を指定してデータを取得する (`select-basic.js`)
-- [ ] **1-2** WHERE — 条件でデータを絞り込む (`select-where.js`)
+- [x] **1-2** WHERE — 条件でデータを絞り込む (`select-where.js`)
 - [ ] **1-3** 比較演算子 — `=`, `<>`, `<`, `>`, `BETWEEN`, `IN` で条件を指定する (`select-comparison.js`)
 - [ ] **1-4** 論理演算子 — `AND`, `OR`, `NOT` で複合条件を作る (`select-logic.js`)
 - [ ] **1-5** LIKE — `%` と `_` でパターンマッチング (`select-like.js`)
