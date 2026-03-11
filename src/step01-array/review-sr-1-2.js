@@ -47,7 +47,7 @@ function runCommands(commands) {
             ans.shift()
             break;
         }
-      
+
   }
 
   return ans;
