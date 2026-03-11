@@ -20,6 +20,15 @@
 
 function maxAdjacentDiff(arr) {
   // TODO: ここに実装を書いてください
+  let max = 0;
+
+  for (let i = 0; i < arr.length - 1; i++) {
+    const diff = Math.abs(arr[i] - arr[i+1]);
+    max = Math.max(diff, max);
+  }
+
+  return max;
+
 }
 
 // --- テスト ---
