@@ -14,6 +14,11 @@
 
 function longestWord(words) {
   // TODO: ここに実装を書いてください
+    let ans = "";
+    for (const word of words) {
+        ans = word.length > ans.length ? word : ans;
+    }
+    return ans;
 }
 
 // --- テスト ---
