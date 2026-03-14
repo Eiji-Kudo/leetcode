@@ -14,6 +14,14 @@
 
 function addTax(prices) {
   // TODO: ここに実装を書いてください
+    return prices.map((price) => 
+        {
+            // console.log(price);
+            const result = price * 1.1;
+            // console.log(result)
+            return Math.floor(result)
+
+        } )
 }
 
 // --- テスト ---
