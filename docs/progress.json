@@ -27,10 +27,11 @@
     "1-4": {
       "completedAt": "2026-03-08",
       "reviews": [
-        { "date": "2026-03-14", "passed": true }
+        { "date": "2026-03-14", "passed": true },
+        { "date": "2026-03-29", "passed": true }
       ],
-      "intervalLevel": 1,
-      "nextReview": "2026-03-17"
+      "intervalLevel": 2,
+      "nextReview": "2026-04-05"
     },
     "1-5": {
       "completedAt": "2026-03-08",
