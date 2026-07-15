@@ -46,6 +46,24 @@
       ],
       "intervalLevel": 3,
       "nextReview": "2026-07-29"
+    },
+    "1-6": {
+      "completedAt": "2026-07-16",
+      "reviews": [],
+      "intervalLevel": 0,
+      "nextReview": "2026-07-17"
+    },
+    "1-7": {
+      "completedAt": "2026-07-16",
+      "reviews": [],
+      "intervalLevel": 0,
+      "nextReview": "2026-07-17"
+    },
+    "1-8": {
+      "completedAt": "2026-07-16",
+      "reviews": [],
+      "intervalLevel": 0,
+      "nextReview": "2026-07-17"
     }
   }
 }

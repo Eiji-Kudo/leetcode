@@ -116,9 +116,9 @@ leetcode/
 - [x] **1-3** for ループで配列を走査 — `for (let i = 0; i < arr.length; i++)` の基本形 (`array-for-loop.js`) ✅ 2026-03-08
 - [x] **1-4** for...of で配列を走査 — `for (const item of arr)` でシンプルに回す (`array-for-of.js`) ✅ 2026-03-08
 - [x] **1-5** map — 各要素を変換して新しい配列を返す (`array-map.js`) ✅ 2026-03-08
-- [ ] **1-6** filter — 条件に合う要素だけ集める (`array-filter.js`)
-- [ ] **1-7** reduce — 配列を1つの値にまとめる（合計など） (`array-reduce.js`)
-- [ ] **1-8** includes / indexOf — 要素が含まれるか調べる (`array-search.js`)
+- [x] **1-6** filter — 条件に合う要素だけ集める (`array-filter.js`) ✅ 2026-07-16
+- [x] **1-7** reduce — 配列を1つの値にまとめる（合計など） (`array-reduce.js`) ✅ 2026-07-16
+- [x] **1-8** includes / indexOf — 要素が含まれるか調べる (`array-search.js`) ✅ 2026-07-16
 - [ ] **1-9** 練習: 配列の最大値を返す関数 (`practice-max.js`)
 - [ ] **1-10** 練習: 配列を逆順にする関数 (`practice-reverse.js`)
 
