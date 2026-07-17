@@ -119,15 +119,15 @@ leetcode/
 - [x] **1-6** filter — 条件に合う要素だけ集める (`array-filter.js`) ✅ 2026-07-16
 - [x] **1-7** reduce — 配列を1つの値にまとめる（合計など） (`array-reduce.js`) ✅ 2026-07-16
 - [x] **1-8** includes / indexOf — 要素が含まれるか調べる (`array-search.js`) ✅ 2026-07-16
-- [ ] **1-9** 練習: 配列の最大値を返す関数 (`practice-max.js`)
-- [ ] **1-10** 練習: 配列を逆順にする関数 (`practice-reverse.js`)
+- [x] **1-9** 練習: 配列の最大値を返す関数 (`practice-max.js`) ✅ 2026-07-17
+- [x] **1-10** 練習: 配列を逆順にする関数 (`practice-reverse.js`) ✅ 2026-07-17
 
 ### Step 2: Set と Map
 
 **目標**: Set と Map の概念・使い方を理解する
 
-- [ ] **2-1** Set の作成と基本操作 — `new Set()`, `add`, `has`, `size` (`set-create.js`)
-- [ ] **2-2** Set の削除と変換 — `delete`, `clear`, `Array.from(set)` でSet↔配列 (`set-convert.js`)
+- [x] **2-1** Set の作成と基本操作 — `new Set()`, `add`, `has`, `size` (`set-create.js`) ✅ 2026-07-17
+- [x] **2-2** Set の削除と変換 — `delete`, `clear`, `Array.from(set)` でSet↔配列 (`set-convert.js`) ✅ 2026-07-17
 - [ ] **2-3** Set で重複除去 — 配列から重複を取り除く定番パターン (`set-dedupe.js`)
 - [ ] **2-4** Set で共通要素を抽出 — 2つの配列の交差(intersection) (`set-intersection.js`)
 - [ ] **2-5** 🔁 **復習: Step 1+2前半** — 配列 + Set の混合ミニ問題3問 (`review-array-set.js`)

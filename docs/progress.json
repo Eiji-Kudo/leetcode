@@ -49,21 +49,51 @@
     },
     "1-6": {
       "completedAt": "2026-07-16",
-      "reviews": [],
-      "intervalLevel": 0,
-      "nextReview": "2026-07-17"
+      "reviews": [
+        { "date": "2026-07-17", "passed": true }
+      ],
+      "intervalLevel": 1,
+      "nextReview": "2026-07-20"
     },
     "1-7": {
       "completedAt": "2026-07-16",
-      "reviews": [],
-      "intervalLevel": 0,
-      "nextReview": "2026-07-17"
+      "reviews": [
+        { "date": "2026-07-17", "passed": true }
+      ],
+      "intervalLevel": 1,
+      "nextReview": "2026-07-20"
     },
     "1-8": {
       "completedAt": "2026-07-16",
+      "reviews": [
+        { "date": "2026-07-17", "passed": true }
+      ],
+      "intervalLevel": 1,
+      "nextReview": "2026-07-20"
+    },
+    "1-9": {
+      "completedAt": "2026-07-17",
       "reviews": [],
       "intervalLevel": 0,
-      "nextReview": "2026-07-17"
+      "nextReview": "2026-07-18"
+    },
+    "1-10": {
+      "completedAt": "2026-07-17",
+      "reviews": [],
+      "intervalLevel": 0,
+      "nextReview": "2026-07-18"
+    },
+    "2-1": {
+      "completedAt": "2026-07-17",
+      "reviews": [],
+      "intervalLevel": 0,
+      "nextReview": "2026-07-18"
+    },
+    "2-2": {
+      "completedAt": "2026-07-17",
+      "reviews": [],
+      "intervalLevel": 0,
+      "nextReview": "2026-07-18"
     }
   }
 }
