@@ -81,9 +81,11 @@
     },
     "1-10": {
       "completedAt": "2026-07-17",
-      "reviews": [],
-      "intervalLevel": 0,
-      "nextReview": "2026-07-18"
+      "reviews": [
+        { "date": "2026-07-20", "passed": true }
+      ],
+      "intervalLevel": 1,
+      "nextReview": "2026-07-23"
     },
     "2-1": {
       "completedAt": "2026-07-17",
