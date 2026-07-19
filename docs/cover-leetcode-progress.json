@@ -2,9 +2,14 @@
   "completions": {
     "1-A-1": {
       "completedAt": "2026-07-14",
-      "reviews": [],
-      "intervalLevel": 0,
-      "nextReview": "2026-07-15"
+      "reviews": [
+        {
+          "date": "2026-07-20",
+          "passed": true
+        }
+      ],
+      "intervalLevel": 1,
+      "nextReview": "2026-07-23"
     },
     "1-A-2": {
       "completedAt": "2026-07-14",

@@ -129,8 +129,8 @@ leetcode/
 - [x] **2-1** Set の作成と基本操作 — `new Set()`, `add`, `has`, `size` (`set-create.js`) ✅ 2026-07-17
 - [x] **2-2** Set の削除と変換 — `delete`, `clear`, `Array.from(set)` でSet↔配列 (`set-convert.js`) ✅ 2026-07-17
 - [x] **2-3** Set で重複除去 — 配列から重複を取り除く定番パターン (`set-dedupe.js`) ✅ 2026-07-17
-- [ ] **2-4** Set で共通要素を抽出 — 2つの配列の交差(intersection) (`set-intersection.js`)
-- [ ] **2-5** 🔁 **復習: Step 1+2前半** — 配列 + Set の混合ミニ問題3問 (`review-array-set.js`)
+- [x] **2-4** Set で共通要素を抽出 — 2つの配列の交差(intersection) (`set-intersection.js`) ✅ 2026-07-17
+- [x] **2-5** 🔁 **復習: Step 1+2前半** — 配列 + Set の混合ミニ問題3問 (`review-array-set.js`) ✅ 2026-07-19
 - [ ] **2-6** Map の作成と基本操作 — `new Map()`, `set`, `get`, `has` (`map-create.js`)
 - [ ] **2-7** Map の削除と走査 — `delete`, `for...of`, `map.entries()` (`map-iterate.js`)
 - [ ] **2-8** Map で出現回数カウント — 要素ごとの頻度を数える定番パターン (`map-count.js`)
